@@ -5,4 +5,6 @@ Jejich soupisy jsou k dispozici v softwarové dokumentaci. Program také počít
 
 K používání programu není potřeba Python ani instalace; spouští se kliknutím na soubor „ledena.exe“. Je možné, že spuštění programu bude bránit antivirus počítače.
 
+Veškeré problémy s fungováním programu oznamujte, prosím, na adresu michal.mistecky@osu.cz.
+
 Prosím, citujte tento software. 
